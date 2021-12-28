@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/chicio/Clean-Code-Meaningful-Names.svg?branch=master)](https://travis-ci.org/chicio/Clean-Code-Meaningful-Names)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/chicio/Clean-Code-Meaningful-Names/master/LICENSE.md)
 
-An example of refactored source code following the guidelines contained in chapter 2 "Meaningful names" of the book "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin (known as Uncle Bob). This example has been created for my blog post  [Clean Code: meaningful names](https://www.fabrizioduroni.it/2017/09/11/clean-code-meaningful-names.html "Clean Code: meaningful names").
+An example of refactored source code following the guidelines contained in chapter 2 "Meaningful names" of the book "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin (known as Uncle Bob). This example has been created for my blog post  [Clean Code: meaningful names](https://www.fabrizioduroni.it/2017/09/11/clean-code-meaningful-names/ "Clean Code: meaningful names").
 
 ### Description
 
